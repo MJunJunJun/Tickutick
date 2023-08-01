@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "630200915758",
+    "firebase_url": "https://tugasbesar-f1306-default-rtdb.firebaseio.com",
+    "project_id": "tugasbesar-f1306",
+    "storage_bucket": "tugasbesar-f1306.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630200915758:android:ae2225944c04941c630cbf",
+        "android_client_info": {
+          "package_name": "com.example.pertemuan7"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "630200915758-20nba45q5i2mqkt7kthfle7b2jcsijff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL8_Y_6hkdD2nxzFPNR_DiDVpwBDsMYeM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "630200915758-20nba45q5i2mqkt7kthfle7b2jcsijff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630200915758:android:5f7b58f702883c59630cbf",
+        "android_client_info": {
+          "package_name": "com.junaedi.firebaselogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "630200915758-20nba45q5i2mqkt7kthfle7b2jcsijff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL8_Y_6hkdD2nxzFPNR_DiDVpwBDsMYeM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "630200915758-20nba45q5i2mqkt7kthfle7b2jcsijff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
